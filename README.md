@@ -7,6 +7,10 @@
 
 <br>
 
+<h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h3>
+
+<br>
+
 ## Wearable Project: WatchOS
 
 App Name: __Fitness Counts__
