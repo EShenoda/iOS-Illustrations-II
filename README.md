@@ -55,3 +55,13 @@ __Goals__:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <img src= "Images/News-5.gif" height=350>
 </p>
+
+<br>
+
+##  Copyright
+Private Repo for EmilShenodaDev@gmail.com
+
+All rights reserved: EmilShenoda@FullSailUniversity
+
+## Contact
+Created by [Emil Shenoda](mailto:EmilShenodaDev@gmail.com) - feel free to contact me!
