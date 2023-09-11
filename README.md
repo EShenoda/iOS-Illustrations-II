@@ -60,6 +60,8 @@ __Goals__:
 
 ## [Click Here to View Android Illustrations](https://github.com/EShenoda/Android-Project)
 
+## [Return to Home Page](https://github.com/EShenoda)
+
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
 
